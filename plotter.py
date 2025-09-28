@@ -134,8 +134,6 @@ class Plotter:
 
         plt.tight_layout()
 
-        plt.tight_layout()
-
         # Adjust the bottom margin to make space for the text
         plt.subplots_adjust(bottom=0.2)
 
